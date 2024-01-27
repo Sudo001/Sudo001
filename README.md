@@ -22,9 +22,9 @@
     🚧 My latest project:
 </h1>
 
-<p align="center">
-    <h1>None</h1>
-</p>
+<h1 align="center">
+    None
+</h1>
 
 <h1 align="center">
     📈 My Github stats:
